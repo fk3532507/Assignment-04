@@ -1,0 +1,199 @@
+*{
+    font-family: 'Playfair Display', serif;
+   margin: 0;
+   padding: 0;
+    
+}
+.header{
+    
+    overflow: hidden;
+}
+.logo{
+width: 20%;
+float: left;
+margin-left: 30px;
+margin-top: 25px;
+}
+.menu{
+width: 60%;
+float: right;
+margin-right: 30px;
+margin-top: 35px;
+}
+.menu ul{
+list-style: none;
+float: right;
+}
+.menu ul li{
+float: left;
+}
+.menu ul li a{
+margin: 50px;
+color: #626262;
+text-decoration: none;
+text-transform: uppercase;
+font-size: 18px;
+}
+.banner{
+width: 94%;
+margin: auto;
+margin-top: 30px;
+}
+.banner img{
+width: 100%;
+margin-top: 40px;
+}
+.span{
+color: #626262;
+font-size: 15px;
+margin-top: 60px;
+margin-left: 80px;
+}
+.head{
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.head h1{
+    color: #423c3c;
+}
+.head p{
+margin-top: 20px;
+color: #626262;
+text-emphasis: 1.7;
+}
+.content{
+width: 85%;
+margin: auto;
+margin-top: 60px;
+overflow: hidden;
+
+}
+.sample_one{
+float: left;
+width: 40%;
+color: #626262;
+}
+.sample_one h1{
+margin-top: 25px;
+margin-bottom: 10px;
+}
+.sample_one p{
+margin-top: 10px;
+}
+.sample_one span{
+margin-top: 25px;
+}
+.sample_two{
+float: right;
+width: 40%;
+color: #626262;
+}
+.sample_two h1{
+    margin-top: 25px;
+    margin-bottom: 10px;
+    }
+    .sample_two p{
+    margin-top: 10px;
+    }
+    .sample_two span{
+    margin-top: 25px;
+    }
+.content_two{
+  width: 85%;
+  margin: auto;
+  margin-top: 100px;
+   overflow: hidden;
+ }  
+.newsletter{
+    background-color: #f0f0f0;
+    height: 300px;
+}
+ .newsletter_part{
+    margin: auto;
+    width: 30%;
+    margin-top: 70px;
+    text-align: center;
+    position: relative;
+}  
+.newsletter_part h1{
+margin-bottom: 20px;
+padding: 60px;
+color: #626262;
+
+}
+.newsletter_part input{
+border: none;
+background-color: transparent;
+border-bottom: 1px solid black;
+width: 100%;
+color: #626262;
+}
+.icon{
+    position: absolute;
+    top: 90%;
+    right: 0;
+}
+.content_three{
+    width: 85%;
+    margin: auto;
+    margin-top: 100px;
+     overflow: hidden;
+}
+.load{
+    height: 260px;
+    text-align: center;
+    margin-top: 150px;
+}    
+.load button{
+    border: 1.5px solid grey;
+    font-size: 20px;
+    padding: 20px 38px;
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    background-color: #ffffff;
+}
+
+footer{
+    width: 100%;
+    height: 120px;
+    background-color: #f0f0f0;
+}
+.footer-content{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+.footer-content .privacy{
+    width: 20%;
+}
+.footer-content .privacy ul{
+    list-style: none;
+    font-size: 14px;
+}
+.footer-content .privacy ul li{
+
+}
+.footer-content .privacy ul li a{
+    text-decoration: none;
+    font-size: 14px;
+    float: left;
+    margin-right: 20px;
+    color: #000000;
+}
+.social-icon{
+    width: 23%;
+}
+.social-icon ul{
+    list-style: none;
+}
+.social-icon ul li{
+    float: left;
+    margin-right: 26px;
+}
+.social-icon ul li a{
+    color: #000000;
+    text-decoration: none;
+    
+}
